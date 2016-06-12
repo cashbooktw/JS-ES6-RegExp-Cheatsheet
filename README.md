@@ -1,4 +1,4 @@
-# JavaScipt ES6 Regexp Cheatsheet
+# JavaScipt ES6 RegExp Cheatsheet
 
 
 #### 資料來源：[MDN JavaScript RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
